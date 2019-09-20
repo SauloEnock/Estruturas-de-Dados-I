@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1568939668 source:c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\main.c
+	"condominios.h"
+
+1568940233 c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\condominios.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1568939533 source:c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\condominios.c
+	"condominios.h"
+
+1568493815 c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\predio.h
+
+1568493784 source:c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\predio.c
+	<string.h>
+	<stdlib.h>
+	"predio.h"
+
+1568685831 source:c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\apartamento.c
+	<string.h>
+	<stdlib.h>
+	"apartamento.h"
+	"condominios.h"
+
+1568685791 c:\users\pichau\desktop\ufma\2019.1\lp\condominiovillagedospassaros\apartamento.h
+	"condominios.h"
+
