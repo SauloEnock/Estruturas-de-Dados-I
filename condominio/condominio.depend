@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1571836891 source:c:\users\pichau\desktop\ufma\2019.2\ed i\condominio\condominio.c
+	"condominio.h"
+	"apartamento.h"
+
+1571836554 c:\users\pichau\desktop\ufma\2019.2\ed i\condominio\condominio.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1571962183 source:c:\users\pichau\desktop\ufma\2019.2\ed i\condominio\main.c
+	"condominio.h"
+	"apartamento.h"
+
+1571792669 source:c:\users\pichau\desktop\ufma\2019.2\ed i\condominio\apartamento.c
+	"apartamento.h"
+
+1571792690 c:\users\pichau\desktop\ufma\2019.2\ed i\condominio\apartamento.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
